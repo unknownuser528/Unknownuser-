@@ -15,11 +15,8 @@
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
-  "ADMINBOT": [
+  "ADMINBOT":
   "100065358226723",
- 
-  
-  ],
   "NDH": ["100065358226723"],
   "adminOnly": false,
   "ndhOnly": false,
