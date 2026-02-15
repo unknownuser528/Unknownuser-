@@ -1,5 +1,5 @@
-
-  "Author": "Shakil.only1",
+{
+  "Author": "Shakil.onl1",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,16 +11,16 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "shaki.l.only1",
+  "BOTNAME": "shakil.only1",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
-  "ADMINBOT": ["100057076495147"]
-    
-
-
+  "ADMINBOT": [
+  "100065358226723",
+ 
   
-  "NDH": ["100057076495147"],
+  ],
+  "NDH": ["100065358226723"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
