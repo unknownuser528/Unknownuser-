@@ -15,12 +15,12 @@
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
-  "ADMINBOT": [
-    100065358226723
+  "ADMINBOT": ["100057076495147"]
+    
 ,
 
   ],
-  "NDH": ["100044713412032"],
+  "NDH": ["100057076495147"],,
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
